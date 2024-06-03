@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>KASA Architects</title>
+    <link href="https://kasa.nz/feed.xml" rel="self" />
+    <link href="https://kasa.nz" />
+    <updated>2024-06-03T19:11:51+12:00</updated>
+    <author>
+        <name>Katerina</name>
+    </author>
+    <id>https://kasa.nz</id>
+
+    <entry>
+        <title>Welcome</title>
+        <author>
+            <name>Katerina</name>
+        </author>
+        <link href="https://kasa.nz/welcome.html"/>
+        <id>https://kasa.nz/welcome.html</id>
+
+        <updated>2024-05-18T22:38:32+12:00</updated>
+            <summary>
+                <![CDATA[
+                    Welcome to Your Dream Project! Whether you're a first-time homeowner or a&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h4><strong>Welcome to Your Dream Project!</strong></h4>
+<p>Whether you're a first-time homeowner or a seasoned developer, we’re here to make your vision a reality. At our architectural firm, we put you first, crafting every detail with care and precision.</p>
+<p>Let's create something extraordinary together!</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>What We Offer</title>
+        <author>
+            <name>Katerina</name>
+        </author>
+        <link href="https://kasa.nz/what-we-offer.html"/>
+        <id>https://kasa.nz/what-we-offer.html</id>
+
+        <updated>2024-05-18T22:31:49+12:00</updated>
+            <summary>
+                <![CDATA[
+                    We believe in the authenticity of places and people. Utilizing local resources,&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div class="flex flex-grow flex-col max-w-full">
+<div class="min-h-[20px] text-message flex flex-col items-start whitespace-pre-wrap break-words [.text-message+&amp;]:mt-5 juice:w-full juice:items-end overflow-x-auto gap-2" dir="auto" data-message-author-role="assistant" data-message-id="293f686d-c404-4728-92d3-356b7d3da6ea">
+<div class="flex w-full flex-col gap-1 juice:empty:hidden juice:first:pt-[3px]">
+<div class="markdown prose w-full break-words dark:prose-invert light">
+<p>We believe in the <strong>authenticity of places and people</strong>. Utilizing local resources, sustainable solutions, and smart technologies, we craft <strong>spaces that are as unique as the individuals we design for</strong>. No two projects are the same, because no two clients are the same. Let’s work together to turn your vision into reality.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="mt-1 flex gap-3 empty:hidden juice:-ml-3">
+<div class="items-center justify-start rounded-xl p-1 flex">
+<div> </div>
+<div class="flex items-center">If you are a developer or government client, go to the <span style="text-decoration: underline;"><span style="color: #000000; text-decoration: underline;">Medium- and Large-Scale Projects</span></span> section. If you are building for personal use (such as a private home or business owner) and have limited experience with the construction process, scroll down to the <span style="text-decoration: underline;">Small-Scale Projects</span> section.</div>
+</div>
+</div>
+<h4><strong>Medium- and Large-Scale Projects</strong></h4>
+<p>Our partnerships allow us to pool resources and expertise, providing you with the best value and highest quality results.</p>
+<p>Working <strong>alongside planners and other consultants from early stage </strong>helps to speed up planning process and utilise your building side.</p>
+<p>With extensive experience in <strong>feasibility studies</strong> for residential and commercial jobs, we leverage AI tools to test, optimize, and develop innovative solutions.</p>
+<p>We have an excellent track record of working with a wide range of stakeholders, engaging in <strong>co-design processes</strong> to ensure all voices are heard.</p>
+<p>We collaborate with local <strong>consultants for cultural articulation</strong>, ensuring the authenticity of place and people.</p>
+<p>We are well-versed in projects targeting <strong>environmental certifications</strong> such as Green Star, Home Star, and ILFI, making our work suitable for both government initiatives and rentable spaces.</p>
+<p><strong>Integrating biophilic design in built environment</strong>, which we believe is essential and natural, helps elevate the spirit, and connect people with nature.</p>
+<p>We <strong>welcome early contractor engagement</strong> and/or <strong>quantity surveyor appointment</strong> to discuss priorities, cost, construction methodology, supply chain challenges and phasing.</p>
+<p>We understand tight timeframes and are <strong>able to deliver design split in phases</strong> for building consent processing and construction.</p>
+<h4><strong>Small-Scale Projects</strong></h4>
+<p>We want to understand your needs, values, and personality. Embarking on a building project can be one of the most significant and stressful investments you’ll ever make, especially for new homeowners. Whether you're building a new house, upgrading your current one, or creating a space for your business, we are here to help to make the process as smooth and stress-free as possible.</p>
+<p>We guide you through the entire process—from design brief and sketches to working drawings, securing resource and building consents, and successful project completion. Our creativity ensures each project uniquely reflects your vision and lifestyle, providing a space that feels like your own and meets your budget expectations.</p>
+<p>We align with your builder and offer building contract administration and observation services to ensure your dream is turned into reality.</p>
+<div class="flex flex-grow flex-col max-w-full">
+<div class="min-h-[20px] text-message flex flex-col items-start whitespace-pre-wrap break-words [.text-message+&amp;]:mt-5 juice:w-full juice:items-end overflow-x-auto gap-2" dir="auto" data-message-author-role="assistant" data-message-id="d4d48266-5cf3-4496-ab3c-221f85b108e4">
+<div class="flex w-full flex-col gap-1 juice:empty:hidden juice:first:pt-[3px]">
+<div class="markdown prose w-full break-words dark:prose-invert light">
+<p>Construction projects typically have seven stages, as outlined on the <a target="_new" rel="noreferrer" href="https://www.nzia.co.nz/connect/working-with-an-architect/the-design-process/">NZIA website</a>. We will guide you through each step and create a tailored solution together.</p>
+</div>
+</div>
+</div>
+</div>
+<p>Meet us for coffee to discuss how we can help!</p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>About Us</title>
+        <author>
+            <name>Katerina</name>
+        </author>
+        <link href="https://kasa.nz/about-us.html"/>
+        <id>https://kasa.nz/about-us.html</id>
+
+        <updated>2024-05-18T21:34:27+12:00</updated>
+            <summary>
+                <![CDATA[
+                    Your Vision, Our Expertise Welcome to our architectural haven in beautiful Northland,&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h4>Your Vision, Our Expertise</h4>
+<p>Welcome to our architectural haven in beautiful Northland, New Zealand! We put you, our client, at the heart of everything we do, taking on projects in Northland and throughout New Zealand.</p>
+<h4><strong>Who We Are</strong></h4>
+<p class="align-center">Established fresh in 2024, our company is built on a foundation of extensive experience and a passion for design. Since 2012, our director has called New Zealand home, bringing with her a wealth of experience from a variety of projects across Europe and New Zealand. With a keen eye for detail and a passion for innovative design, she has tackled projects of <strong>all scales and types</strong> - from cozy single-unit homes to expansive commercial spaces of &gt;20,000sqm across 8 levels.</p>
+<p class="align-center">Our journey is rooted in a deep commitment to client satisfaction and quality craftsmanship. </p>
+<p class="align-center">We blend our <strong>global experience with a strong local presence</strong>, ensuring every project resonates with the unique character of its surroundings. Through our established associations with other firms, we seamlessly integrate additional expertise and resources as needed, delivering the best possible results for our clients.</p>
+<p class="align-center">We are proud to show, on demand, a portfolio of works where our director served as a Project Architect under other firms. These medium and large-scale endeavors each come with their own fascinating stories. <strong>Contact us today</strong> to find out more about these prior works and how we can <strong>bring our expertise to your project</strong>!</p>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://kasa.nz/media/posts/1/IMG_9412.jpg" alt="Katerina Dvorakova, Founder and Director" width="200" height="300" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://kasa.nz/media/posts/1/responsive/IMG_9412-xs.jpg 300w ,https://kasa.nz/media/posts/1/responsive/IMG_9412-sm.jpg 480w ,https://kasa.nz/media/posts/1/responsive/IMG_9412-md.jpg 768w ,https://kasa.nz/media/posts/1/responsive/IMG_9412-lg.jpg 1024w"></figure>Meet Katerina<br>Founder and Director<br>MArch(Prof), NZRAB New Zealand Registered Architect</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
