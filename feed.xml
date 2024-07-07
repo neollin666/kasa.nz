@@ -3,67 +3,123 @@
     <title>KASA Architects</title>
     <link href="https://kasa.nz/feed.xml" rel="self" />
     <link href="https://kasa.nz" />
-    <updated>2024-06-03T19:11:51+12:00</updated>
+    <updated>2024-07-07T21:29:56+12:00</updated>
     <author>
         <name>Katerina</name>
     </author>
     <id>https://kasa.nz</id>
 
     <entry>
-        <title>Welcome</title>
+        <title>Timber Skin Holiday House</title>
         <author>
             <name>Katerina</name>
         </author>
-        <link href="https://kasa.nz/welcome.html"/>
-        <id>https://kasa.nz/welcome.html</id>
+        <link href="https://kasa.nz/timber-cloak.html"/>
+        <id>https://kasa.nz/timber-cloak.html</id>
 
-        <updated>2024-05-18T22:38:32+12:00</updated>
+        <updated>2024-06-16T23:04:33+12:00</updated>
             <summary>
                 <![CDATA[
-                    Welcome to Your Dream Project! Whether you're a first-time homeowner or a&hellip;
+                    This charming two-bedroom holiday house, nestled in nature, reflects a love for&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <h4><strong>Welcome to Your Dream Project!</strong></h4>
-<p>Whether you're a first-time homeowner or a seasoned developer, we’re here to make your vision a reality. At our architectural firm, we put you first, crafting every detail with care and precision.</p>
-<p>Let's create something extraordinary together!</p>
+                <figure class="post__image"><img loading="lazy"  src="https://kasa.nz/media/posts/16/Beige-Timber-Exterior-2.jpg" alt="" width="600" height="377" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://kasa.nz/media/posts/16/responsive/Beige-Timber-Exterior-2-xs.jpg 300w ,https://kasa.nz/media/posts/16/responsive/Beige-Timber-Exterior-2-sm.jpg 480w ,https://kasa.nz/media/posts/16/responsive/Beige-Timber-Exterior-2-md.jpg 768w ,https://kasa.nz/media/posts/16/responsive/Beige-Timber-Exterior-2-lg.jpg 1024w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://kasa.nz/media/posts/16/Beige-Timber-Kitchen-Final-2.jpg" alt="" width="600" height="449" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://kasa.nz/media/posts/16/responsive/Beige-Timber-Kitchen-Final-2-xs.jpg 300w ,https://kasa.nz/media/posts/16/responsive/Beige-Timber-Kitchen-Final-2-sm.jpg 480w ,https://kasa.nz/media/posts/16/responsive/Beige-Timber-Kitchen-Final-2-md.jpg 768w ,https://kasa.nz/media/posts/16/responsive/Beige-Timber-Kitchen-Final-2-lg.jpg 1024w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://kasa.nz/media/posts/16/Beige-Timber-Bathroom-2-2.jpg" alt="" width="600" height="435" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://kasa.nz/media/posts/16/responsive/Beige-Timber-Bathroom-2-2-xs.jpg 300w ,https://kasa.nz/media/posts/16/responsive/Beige-Timber-Bathroom-2-2-sm.jpg 480w ,https://kasa.nz/media/posts/16/responsive/Beige-Timber-Bathroom-2-2-md.jpg 768w ,https://kasa.nz/media/posts/16/responsive/Beige-Timber-Bathroom-2-2-lg.jpg 1024w"></figure>
+<p>This charming two-bedroom holiday house, nestled in nature, reflects a love for natural materials and layered design. The home features two intersecting box volumes, fully clad in timber that will age to a silvery hue, blending seamlessly with the surrounding bushland. The timber cladding extends over the roof, camouflaging the house into its environment.<br><br>A distinctive tinted timber entry contrasts with the main structure, inviting you inside. The interior showcases a mix of timber finishes, natural-patterned tiles, playful terrazzo in the bathroom, and obscure glass in the shower for admiring the vast landscape in privacy.</p>
+<p>Humble yet luxurious, stylish yet fun — a perfect retreat that combines quality and thoughtful design, celebrating the beauty of nature and craftsmanship.</p>
+<p> </p>
             ]]>
         </content>
     </entry>
     <entry>
-        <title>What We Offer</title>
+        <title>Process</title>
         <author>
             <name>Katerina</name>
         </author>
-        <link href="https://kasa.nz/what-we-offer.html"/>
-        <id>https://kasa.nz/what-we-offer.html</id>
+        <link href="https://kasa.nz/process.html"/>
+        <id>https://kasa.nz/process.html</id>
 
-        <updated>2024-05-18T22:31:49+12:00</updated>
+        <updated>2024-06-16T21:22:11+12:00</updated>
             <summary>
                 <![CDATA[
-                    We believe in the authenticity of places and people. Utilizing local resources,&hellip;
+                    Typical project stages: Initial Discussion For a new project, we start with&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <div class="flex flex-grow flex-col max-w-full">
-<div class="min-h-[20px] text-message flex flex-col items-start whitespace-pre-wrap break-words [.text-message+&amp;]:mt-5 juice:w-full juice:items-end overflow-x-auto gap-2" dir="auto" data-message-author-role="assistant" data-message-id="293f686d-c404-4728-92d3-356b7d3da6ea">
-<div class="flex w-full flex-col gap-1 juice:empty:hidden juice:first:pt-[3px]">
-<div class="markdown prose w-full break-words dark:prose-invert light">
-<p>We believe in the <strong>authenticity of places and people</strong>. Utilizing local resources, sustainable solutions, and smart technologies, we craft <strong>spaces that are as unique as the individuals we design for</strong>. No two projects are the same, because no two clients are the same. Let’s work together to turn your vision into reality.</p>
-</div>
-</div>
-</div>
-</div>
-<div class="mt-1 flex gap-3 empty:hidden juice:-ml-3">
-<div class="items-center justify-start rounded-xl p-1 flex">
-<div> </div>
-<div class="flex items-center">If you are a developer or government client, go to the <span style="text-decoration: underline;"><span style="color: #000000; text-decoration: underline;">Medium- and Large-Scale Projects</span></span> section. If you are building for personal use (such as a private home or business owner) and have limited experience with the construction process, scroll down to the <span style="text-decoration: underline;">Small-Scale Projects</span> section.</div>
-</div>
-</div>
-<h4><strong>Medium- and Large-Scale Projects</strong></h4>
-<p>Our partnerships allow us to pool resources and expertise, providing you with the best value and highest quality results.</p>
+                <h5><span style="font-weight: 400;">Typical project stages:</span></h5>
+<h4><strong>Initial Discussion</strong></h4>
+<p><span style="font-weight: 400;">For a new project, we start with an initial no-obligation meeting with our clients. This is a crucial step to understand your vision, preferences, and expectations. During this discussion, we will share our design philosophies and show examples of our previous projects to give you a sense of our work style. We encourage you to bring any images or ideas you admire to help us grasp your aspirations.</span></p>
+<p><span style="font-weight: 400;">We’ll also provide preliminary advice on project feasibility, including potential building costs, timelines, and site suitability. This is an opportunity to discuss any other specialists, such as surveyors or engineers, that might be needed. By the end of this meeting, you should have a clearer understanding of the project’s scope and our approach.</span></p>
+<h4><strong>Pre-design</strong></h4>
+<p><span style="font-weight: 400;">The pre-design stage is about gathering all necessary information to develop a comprehensive project brief. This includes understanding your requirements, such as the functions of the building, the desired activities and spaces, preferred materials, finishes, budget constraints, and timeframe.</span></p>
+<p><span style="font-weight: 400;">We will visit the site to gather detailed measurements and conditions, ensuring our design is tailored to the location. This may involve engaging a land surveyor for site levels and boundaries. We will analyze local regulations, planning permissions, and any constraints or opportunities presented by the site, such as orientation, views, and utilities. This phase also includes evaluating the need for other consultants, such as geotechnical, structural engineers or planners, ensuring all aspects are considered before moving forward.</span></p>
+<h4><strong>Concept Design</strong></h4>
+<p><span style="font-weight: 400;">In the concept design phase, we translate your brief and site analysis into initial design ideas. This stage is about exploring various design possibilities and presenting them as space planning diagrams, site plans, and 3D models. These concepts are developed in close consultation with you to ensure they align with your vision and requirements.</span></p>
+<p><span style="font-weight: 400;">We will prepare preliminary sketches and a feasibility analysis, including a rough cost estimate and timeline. This stage involves iterative feedback and revisions to refine the design concept. By the end of this phase, you will have a clear visual representation of the project’s potential.</span></p>
+<h4><strong>Preliminary Design</strong></h4>
+<p><span style="font-weight: 400;">The preliminary design stage focuses on refining the chosen concept. Detailed plans, elevations, and sections are developed, showing the arrangement of rooms, spaces, and key architectural features. This phase ensures the design aligns with your functional and aesthetic goals.</span></p>
+<p><span style="font-weight: 400;">We recommend engaging a Quantity Surveyor (QS) at this stage to provide a detailed cost estimate. We will also prepare and submit any necessary applications for planning permissions. Regular meetings will keep you informed and involved in the design evolution, ensuring all your feedback is incorporated.</span></p>
+<h4><strong>Developed Design</strong></h4>
+<p><span style="font-weight: 400;">During the developed design phase, we finalize all major design decisions. Detailed drawings and specifications are created for materials, finishes, fixtures, and fittings. This stage ensures the design is ready for detailed documentation and construction.</span></p>
+<p><span style="font-weight: 400;">We will coordinate with any other consultants involved, such as structural engineers or interior designers, to integrate their input into the design. If required, additional cost estimates will be sought to confirm the project remains within budget. By the end of this stage, you will have a comprehensive design ready for the next phase.</span></p>
+<h4><strong>Detailed Design and Documentation</strong></h4>
+<p><span style="font-weight: 400;">This phase involves creating detailed construction drawings and specifications that contractors will use to build the project. These documents include plans, elevations, sections, schedules, and detailed notes on materials and workmanship.</span></p>
+<p><span style="font-weight: 400;">We will also prepare and submit building consent applications to the relevant authorities. Coordination with other consultants continues, ensuring all aspects of the design are accurately documented. This stage requires thorough attention to detail to ensure a high-quality construction process and outcome.</span></p>
+<h4><strong>Contractor Procurement</strong></h4>
+<p><span style="font-weight: 400;">Selecting the right contractor is crucial for the success of your project. We will advise on the best procurement method, whether it’s competitive tendering or negotiating with a preferred contractor. We prepare tender documents and invite selected contractors to submit bids.</span></p>
+<p><span style="font-weight: 400;">We will analyze the bids, considering not only the price but also the contractors’ experience, reputation, and ability to meet the project’s requirements. Once a contractor is selected, we will assist in finalizing the contract terms and conditions.</span></p>
+<h4><strong>Contract Administration and Observation</strong></h4>
+<p><span style="font-weight: 400;">During construction, we act as your representative to ensure the project is built according to the contract documents. This involves regular site visits, progress meetings, and quality inspections. We manage any changes or variations, ensuring they are documented and approved.</span></p>
+<p><span style="font-weight: 400;">We also handle contract administration tasks such as reviewing contractor’s submissions, assessing progress claims, and issuing certificates. Our role is to safeguard your interests, ensuring the project is completed on time, within budget, and to the specified quality.</span></p>
+<h4><strong>Fees &amp; Contract for Architect Services</strong></h4>
+<p><span style="font-weight: 400;">Understanding the costs involved in architectural services is essential. Our fees can be structured in various ways, such as time charges, fixed fees, or percentage fees based on the project’s construction cost. We will provide a detailed fee proposal tailored to your project’s scope and complexity.</span></p>
+<p><span style="font-weight: 400;">We typically use the NZIA contracts for the Agreement for Architects Services. The contract outlines the scope of work, responsibilities, fees, billing methods, and terms of engagement. Transparency and clear communication are key to a successful collaboration, and we ensure you are fully informed at every stage.</span></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Small-Scale Projects</title>
+        <author>
+            <name>Katerina</name>
+        </author>
+        <link href="https://kasa.nz/small-scale-projects.html"/>
+        <id>https://kasa.nz/small-scale-projects.html</id>
+
+        <updated>2024-06-03T21:18:31+12:00</updated>
+            <summary>
+                <![CDATA[
+                    We want to understand your needs, values, and personality. Embarking on a&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>We want to <strong>understand your needs, values, and personality</strong>. Embarking on a building project can be one of the most significant and stressful investments you’ll ever make, especially for new homeowners. Whether you're building a new house, upgrading your current one, or creating a space for your business, we are here to help to make the process as smooth and stress-free as possible.</p>
+<p>We <strong>guide you through the entire process</strong> - from design brief and sketches to working drawings, securing resource and building consents, selection of building contractor and successful project completion. Our creativity ensures each project uniquely reflects your vision and lifestyle, providing a space that feels like your own and meets your budget expectations.</p>
+<p>Find out about the typical project stages <a href="https://kasa.nz/process.html">at this link</a>.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Medium- and Large-Scale Projects</title>
+        <author>
+            <name>Katerina</name>
+        </author>
+        <link href="https://kasa.nz/medium-and-large-scale-projects.html"/>
+        <id>https://kasa.nz/medium-and-large-scale-projects.html</id>
+
+        <updated>2024-06-03T21:18:18+12:00</updated>
+            <summary>
+                <![CDATA[
+                    Our partnerships allow us to pool resources and expertise, providing you with&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Our partnerships allow us to pool resources and expertise, providing you with the best value and highest quality results.</p>
 <p>Working <strong>alongside planners and other consultants from early stage </strong>helps to speed up planning process and utilise your building side.</p>
 <p>With extensive experience in <strong>feasibility studies</strong> for residential and commercial jobs, we leverage AI tools to test, optimize, and develop innovative solutions.</p>
 <p>We have an excellent track record of working with a wide range of stakeholders, engaging in <strong>co-design processes</strong> to ensure all voices are heard.</p>
@@ -72,48 +128,130 @@
 <p><strong>Integrating biophilic design in built environment</strong>, which we believe is essential and natural, helps elevate the spirit, and connect people with nature.</p>
 <p>We <strong>welcome early contractor engagement</strong> and/or <strong>quantity surveyor appointment</strong> to discuss priorities, cost, construction methodology, supply chain challenges and phasing.</p>
 <p>We understand tight timeframes and are <strong>able to deliver design split in phases</strong> for building consent processing and construction.</p>
-<h4><strong>Small-Scale Projects</strong></h4>
-<p>We want to understand your needs, values, and personality. Embarking on a building project can be one of the most significant and stressful investments you’ll ever make, especially for new homeowners. Whether you're building a new house, upgrading your current one, or creating a space for your business, we are here to help to make the process as smooth and stress-free as possible.</p>
-<p>We guide you through the entire process—from design brief and sketches to working drawings, securing resource and building consents, and successful project completion. Our creativity ensures each project uniquely reflects your vision and lifestyle, providing a space that feels like your own and meets your budget expectations.</p>
-<p>We align with your builder and offer building contract administration and observation services to ensure your dream is turned into reality.</p>
-<div class="flex flex-grow flex-col max-w-full">
-<div class="min-h-[20px] text-message flex flex-col items-start whitespace-pre-wrap break-words [.text-message+&amp;]:mt-5 juice:w-full juice:items-end overflow-x-auto gap-2" dir="auto" data-message-author-role="assistant" data-message-id="d4d48266-5cf3-4496-ab3c-221f85b108e4">
-<div class="flex w-full flex-col gap-1 juice:empty:hidden juice:first:pt-[3px]">
-<div class="markdown prose w-full break-words dark:prose-invert light">
-<p>Construction projects typically have seven stages, as outlined on the <a target="_new" rel="noreferrer" href="https://www.nzia.co.nz/connect/working-with-an-architect/the-design-process/">NZIA website</a>. We will guide you through each step and create a tailored solution together.</p>
-</div>
-</div>
-</div>
-</div>
-<p>Meet us for coffee to discuss how we can help!</p>
-<p> </p>
             ]]>
         </content>
     </entry>
     <entry>
-        <title>About Us</title>
+        <title>Projects</title>
         <author>
             <name>Katerina</name>
         </author>
-        <link href="https://kasa.nz/about-us.html"/>
-        <id>https://kasa.nz/about-us.html</id>
+        <link href="https://kasa.nz/projects-2.html"/>
+        <id>https://kasa.nz/projects-2.html</id>
 
-        <updated>2024-05-18T21:34:27+12:00</updated>
+        <updated>2024-06-03T20:23:52+12:00</updated>
             <summary>
                 <![CDATA[
-                    Your Vision, Our Expertise Welcome to our architectural haven in beautiful Northland,&hellip;
+                    We are a young firm with solid background. Contact our director to&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <h4>Your Vision, Our Expertise</h4>
-<p>Welcome to our architectural haven in beautiful Northland, New Zealand! We put you, our client, at the heart of everything we do, taking on projects in Northland and throughout New Zealand.</p>
-<h4><strong>Who We Are</strong></h4>
-<p class="align-center">Established fresh in 2024, our company is built on a foundation of extensive experience and a passion for design. Since 2012, our director has called New Zealand home, bringing with her a wealth of experience from a variety of projects across Europe and New Zealand. With a keen eye for detail and a passion for innovative design, she has tackled projects of <strong>all scales and types</strong> - from cozy single-unit homes to expansive commercial spaces of &gt;20,000sqm across 8 levels.</p>
-<p class="align-center">Our journey is rooted in a deep commitment to client satisfaction and quality craftsmanship. </p>
-<p class="align-center">We blend our <strong>global experience with a strong local presence</strong>, ensuring every project resonates with the unique character of its surroundings. Through our established associations with other firms, we seamlessly integrate additional expertise and resources as needed, delivering the best possible results for our clients.</p>
-<p class="align-center">We are proud to show, on demand, a portfolio of works where our director served as a Project Architect under other firms. These medium and large-scale endeavors each come with their own fascinating stories. <strong>Contact us today</strong> to find out more about these prior works and how we can <strong>bring our expertise to your project</strong>!</p>
-<figure class="post__image post__image--center"><img loading="lazy"  src="https://kasa.nz/media/posts/1/IMG_9412.jpg" alt="Katerina Dvorakova, Founder and Director" width="200" height="300" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://kasa.nz/media/posts/1/responsive/IMG_9412-xs.jpg 300w ,https://kasa.nz/media/posts/1/responsive/IMG_9412-sm.jpg 480w ,https://kasa.nz/media/posts/1/responsive/IMG_9412-md.jpg 768w ,https://kasa.nz/media/posts/1/responsive/IMG_9412-lg.jpg 1024w"></figure>Meet Katerina<br>Founder and Director<br>MArch(Prof), NZRAB New Zealand Registered Architect</p>
+                <p>We are a young firm with solid background.</p>
+<p><a href="https://kasa.nz/contact.html">Contact our director</a> to find out more about her <strong>extensive experience on multi-residential, commercial, hospitality, health care buildings and buildings for education</strong>.</p>
+<p>For our very own projects, check out the <strong>Project subcategories in the main menu</strong>.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Cable Bay Home Alteration</title>
+        <author>
+            <name>Katerina</name>
+        </author>
+        <link href="https://kasa.nz/cable-bay-home-alternation.html"/>
+        <id>https://kasa.nz/cable-bay-home-alternation.html</id>
+
+        <updated>2024-06-03T20:20:49+12:00</updated>
+            <summary>
+                <![CDATA[
+                    We're in the middle of building something great! Watch this space!
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p class="align-center">We're in the middle of building something great! Watch this space!</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Workplace</title>
+        <author>
+            <name>Katerina</name>
+        </author>
+        <link href="https://kasa.nz/workplace.html"/>
+        <id>https://kasa.nz/workplace.html</id>
+
+        <updated>2024-06-03T20:20:10+12:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Stucco Cave House</title>
+        <author>
+            <name>Katerina</name>
+        </author>
+        <link href="https://kasa.nz/stucco-cave-house.html"/>
+        <id>https://kasa.nz/stucco-cave-house.html</id>
+
+        <updated>2024-06-03T20:18:23+12:00</updated>
+            <summary>
+                <![CDATA[
+                    Step into a world where ancient inspirations meet modern simplicity. This unique&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image"><img loading="lazy"  src="https://kasa.nz/media/posts/9/Stucco-Villa-from-Street.jpg" alt="" width="600" height="335" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://kasa.nz/media/posts/9/responsive/Stucco-Villa-from-Street-xs.jpg 300w ,https://kasa.nz/media/posts/9/responsive/Stucco-Villa-from-Street-sm.jpg 480w ,https://kasa.nz/media/posts/9/responsive/Stucco-Villa-from-Street-md.jpg 768w ,https://kasa.nz/media/posts/9/responsive/Stucco-Villa-from-Street-lg.jpg 1024w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://kasa.nz/media/posts/9/Stucco-Villa-from-Garden.jpg" alt="" width="600" height="210" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://kasa.nz/media/posts/9/responsive/Stucco-Villa-from-Garden-xs.jpg 300w ,https://kasa.nz/media/posts/9/responsive/Stucco-Villa-from-Garden-sm.jpg 480w ,https://kasa.nz/media/posts/9/responsive/Stucco-Villa-from-Garden-md.jpg 768w ,https://kasa.nz/media/posts/9/responsive/Stucco-Villa-from-Garden-lg.jpg 1024w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://kasa.nz/media/posts/9/Stucco-Villa-Living.jpg" alt="" width="600" height="281" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://kasa.nz/media/posts/9/responsive/Stucco-Villa-Living-xs.jpg 300w ,https://kasa.nz/media/posts/9/responsive/Stucco-Villa-Living-sm.jpg 480w ,https://kasa.nz/media/posts/9/responsive/Stucco-Villa-Living-md.jpg 768w ,https://kasa.nz/media/posts/9/responsive/Stucco-Villa-Living-lg.jpg 1024w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://kasa.nz/media/posts/9/Stucco-Villa-Kitchen.jpg" alt="" width="600" height="340" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://kasa.nz/media/posts/9/responsive/Stucco-Villa-Kitchen-xs.jpg 300w ,https://kasa.nz/media/posts/9/responsive/Stucco-Villa-Kitchen-sm.jpg 480w ,https://kasa.nz/media/posts/9/responsive/Stucco-Villa-Kitchen-md.jpg 768w ,https://kasa.nz/media/posts/9/responsive/Stucco-Villa-Kitchen-lg.jpg 1024w"></figure>
+<p>Step into a world where ancient inspirations meet modern simplicity. This unique home, inspired by the client's travels through Europe and Africa, stands as a testament to solid structures and timeless elegance. Crafted with stone, textured plaster, brick, and rammed earth, the house embodies a sense of permanence and serenity.<br><br>The heart of this design lies in its dual spine walls, creating an inviting "cave" effect. These walls, finished with a textured plaster that echoes the look of rammed earth and sedimentary rock, bring the essence of geological history indoors. Arched openings gracefully connect the various spaces, ensuring privacy while maintaining an open, airy feel.<br><br>Beyond their aesthetic appeal, these walls function as thermal masses, regulating the interior temperature for year-round comfort. This ingenious design extends outdoors, where similar plaster techniques are applied to the wing walls. These external walls not only support the expansive roof overhang but also shield the ground floor living and dining areas from the prying eyes of a busy road junction, creating a private oasis for the homeowners.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Crafty Vintage Wine Bar</title>
+        <author>
+            <name>Katerina</name>
+        </author>
+        <link href="https://kasa.nz/rustic-wine-bar.html"/>
+        <id>https://kasa.nz/rustic-wine-bar.html</id>
+
+        <updated>2024-06-03T20:02:23+12:00</updated>
+            <summary>
+                <![CDATA[
+                    Welcome to the Wine Bar, a uniquely styled haven that captures the&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image"><img loading="lazy"  src="https://kasa.nz/media/posts/7/Wine-Bar-Counter.jpg" alt="" width="600" height="394" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://kasa.nz/media/posts/7/responsive/Wine-Bar-Counter-xs.jpg 300w ,https://kasa.nz/media/posts/7/responsive/Wine-Bar-Counter-sm.jpg 480w ,https://kasa.nz/media/posts/7/responsive/Wine-Bar-Counter-md.jpg 768w ,https://kasa.nz/media/posts/7/responsive/Wine-Bar-Counter-lg.jpg 1024w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://kasa.nz/media/posts/7/Wine-Bar-Community-Bay.jpg" alt="" width="600" height="394" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://kasa.nz/media/posts/7/responsive/Wine-Bar-Community-Bay-xs.jpg 300w ,https://kasa.nz/media/posts/7/responsive/Wine-Bar-Community-Bay-sm.jpg 480w ,https://kasa.nz/media/posts/7/responsive/Wine-Bar-Community-Bay-md.jpg 768w ,https://kasa.nz/media/posts/7/responsive/Wine-Bar-Community-Bay-lg.jpg 1024w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://kasa.nz/media/posts/7/Wine-Bar-Tasting-Bay.jpg" alt="" width="450" height="600" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://kasa.nz/media/posts/7/responsive/Wine-Bar-Tasting-Bay-xs.jpg 300w ,https://kasa.nz/media/posts/7/responsive/Wine-Bar-Tasting-Bay-sm.jpg 480w ,https://kasa.nz/media/posts/7/responsive/Wine-Bar-Tasting-Bay-md.jpg 768w ,https://kasa.nz/media/posts/7/responsive/Wine-Bar-Tasting-Bay-lg.jpg 1024w"></figure>
+<p>Welcome to the Wine Bar, a uniquely styled haven that captures the essence of an old English pub with a twist of contemporary flair. This vibrant space is a celebration of maximalism, designed to evoke a DIY charm and man-cave ingenuity where laughter and dance are not just expected, but encouraged.</p>
+<p>The open-plan layout features distinct functional bays with various seating and material options. Rich timber, stone-clad walls, Bordeaux red faux leather, and metal accents create a vivid palette.</p>
+<p>Adjustable moody lighting enhances the atmosphere, perfect for any occasion. Green stained timber accents and backlit transparent green materials, reminiscent of wine bottle glass, add a unique touch.</p>
+<p>Sustainable elements, including repurposed fittings and salvaged materials, give the space its unique character. The Wine Bar is a place where tradition meets innovation, offering a new experience with every visit.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Natural Sanctuary</title>
+        <author>
+            <name>Katerina</name>
+        </author>
+        <link href="https://kasa.nz/natural-sanctuary.html"/>
+        <id>https://kasa.nz/natural-sanctuary.html</id>
+
+        <updated>2024-06-03T20:01:47+12:00</updated>
+            <summary>
+                <![CDATA[
+                    We're in the middle of building something great! Watch this space!
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>We're in the middle of building something great! Watch this space!</p>
             ]]>
         </content>
     </entry>
